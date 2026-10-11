@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5aa9e6"/><stop offset="1" stop-color="#dff0fb"/></linearGradient><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3f86c9"/><stop offset="1" stop-color="#ffffff" stop-opacity=".35"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#s)"/>
+<ellipse cx="263" cy="62" rx="70" ry="14" fill="#fff" opacity=".45"/><ellipse cx="293" cy="52" rx="45" ry="11" fill="#fff" opacity=".45"/>
+<ellipse cx="583" cy="69" rx="70" ry="14" fill="#fff" opacity=".45"/><ellipse cx="613" cy="59" rx="45" ry="11" fill="#fff" opacity=".45"/>
+<ellipse cx="211" cy="121" rx="70" ry="14" fill="#fff" opacity=".45"/><ellipse cx="241" cy="111" rx="45" ry="11" fill="#fff" opacity=".45"/>
+<polygon points="0,600 0,327 40,198 80,227 120,201 160,180 200,294 240,279 280,223 320,287 360,290 400,295 440,201 480,198 520,210 560,296 600,191 640,253 680,295 720,261 760,267 800,318 840,245 800,600" fill="#b7cbe0"/>
+<polygon points="0,600 0,360 40,337 80,297 120,328 160,355 200,305 240,290 280,346 320,296 360,397 400,384 440,381 480,296 520,324 560,320 600,368 640,345 680,302 720,389 760,387 800,394 840,348 800,600" fill="#8aa6c4"/>
+<polygon points="0,600 0,394 50,420 100,433 150,424 200,453 250,384 300,438 350,448 400,441 450,395 500,441 550,388 600,439 650,430 700,463 750,388 800,398 850,427 800,600" fill="#5d7f6a"/>
+<rect x="0" y="500" width="800" height="100" fill="#7fae6a"/>
+<polygon points="400,150 180,500 620,500" fill="#d9b25f"/>
+<path d="M376 190 Q400 202 424 190" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<path d="M352 230 Q400 242 448 230" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<path d="M328 270 Q400 282 472 270" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<path d="M304 310 Q400 322 496 310" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<path d="M280 350 Q400 362 520 350" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<path d="M256 390 Q400 402 544 390" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<path d="M232 430 Q400 442 568 430" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<path d="M208 470 Q400 482 592 470" stroke="#8a6a30" stroke-width="2" fill="none"/>
+<circle cx="400" cy="150" r="20" fill="#7a5421"/><rect x="170" y="494" width="460" height="16" fill="#7a5421"/><rect x="360" y="410" width="80" height="90" fill="#3a2a1a"/>
+</svg>

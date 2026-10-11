@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5aa9e6"/><stop offset="1" stop-color="#dff0fb"/></linearGradient><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3f86c9"/><stop offset="1" stop-color="#ffffff" stop-opacity=".35"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#s)"/>
+<ellipse cx="468" cy="193" rx="70" ry="14" fill="#fff" opacity=".45"/><ellipse cx="498" cy="183" rx="45" ry="11" fill="#fff" opacity=".45"/>
+<ellipse cx="604" cy="89" rx="70" ry="14" fill="#fff" opacity=".45"/><ellipse cx="634" cy="79" rx="45" ry="11" fill="#fff" opacity=".45"/>
+<ellipse cx="230" cy="157" rx="70" ry="14" fill="#fff" opacity=".45"/><ellipse cx="260" cy="147" rx="45" ry="11" fill="#fff" opacity=".45"/>
+<polygon points="0,600 0,296 40,325 80,312 120,328 160,306 200,252 240,181 280,225 320,273 360,269 400,226 440,281 480,318 520,203 560,237 600,313 640,319 680,315 720,186 760,313 800,236 840,184 800,600" fill="#b7cbe0"/>
+<polygon points="0,600 0,396 40,357 80,347 120,299 160,379 200,371 240,372 280,394 320,325 360,310 400,351 440,395 480,321 520,318 560,328 600,363 640,308 680,330 720,335 760,340 800,374 840,349 800,600" fill="#8aa6c4"/>
+<polygon points="0,600 0,398 50,408 100,438 150,396 200,394 250,466 300,455 350,449 400,468 450,402 500,411 550,421 600,380 650,437 700,452 750,459 800,439 850,394 800,600" fill="#5d7f6a"/>
+<rect x="260" y="0" width="300" height="600" fill="#6b5b45"/><rect x="520" y="0" width="280" height="600" fill="#8a7658"/>
+<line x1="400" y1="40" x2="400" y2="420" stroke="#f2b134" stroke-width="5"/><g transform="translate(400 330)"><circle cx="0" cy="-30" r="12" fill="#00209F"/><rect x="-10" y="-18" width="20" height="36" rx="6" fill="#009543"/><rect x="-14" y="16" width="10" height="26" fill="#222"/><rect x="4" y="16" width="10" height="26" fill="#222"/></g>
+</svg>
