@@ -11,12 +11,12 @@ lesotho-tourism/
   destinations.html     25 places: search, category filter, sort, pagination, details modal, saved places
   accommodation.html    6 stays, comparison table, stay cost calculator, booking tips accordion
   activities.html       6 activities with filter + search, seasons table
-  gallery.html          25 pictures, category filter, lightbox with next/previous + thumbnails
+  gallery.html          24 labelled photographs in a simple grid
   contact.html          Booking form (live cost estimate), contact form, traveller sign-up form
   css/style.css         All custom styling, organised in 12 numbered sections
   js/                   main.js, home.js, destinations.js, gallery.js, activities.js, stays.js, forms.js, data-fallback.js
   data/destinations.json  The 25 destinations (loaded with fetch)
-  images/               38 SVG illustrations + logo + favicon
+  images/               photographs (.jpg), logo.svg, favicon.svg  (see IMAGE-CHECKLIST.txt)
 ```
 
 ## Where each requirement is met
@@ -44,8 +44,8 @@ Open `index.html` in a browser. If `fetch()` is blocked when opening files direc
 4. After a minute your site is live at `https://YOUR-USERNAME.github.io/lesotho-tourism/`.
 5. Submit the repository link (source code) and the Pages link (hosted site).
 
-## Using real photographs
-The pictures are original SVG illustrations so the project has no copyright issues. To use photos, put them in `images/`, keep the same file names (for example `maletsunyane-falls.jpg`), and update the `image` path for that place in `data/destinations.json` and `js/data-fallback.js`. Static pages use `images/...svg` paths in the HTML.
+## Photographs
+The site uses real photographs saved in `images/`. File names are case-sensitive on GitHub Pages, so they must match the names in `IMAGE-CHECKLIST.txt` exactly. The destination cards on `destinations.html` read their picture paths from `data/destinations.json` and `js/data-fallback.js`; keep those two files in step if you rename a photo.
 
 ## Notes
 * Bootstrap, Bootstrap JS and Google Fonts load from CDNs, so you need an internet connection the first time.

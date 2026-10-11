@@ -9,8 +9,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "One of Lesotho's most famous waterfalls, plunging into a gorge ringed by dramatic mountain scenery.",
     "bestFor": "Abseiling, photography, gorge walks",
     "tag": "Waterfall",
-    "image": "images/maletsunyane-falls.svg",
-    "alt": "Illustration of Maletsunyane Falls, Lesotho"
+    "image": "images/Maletsunyanefalls.jpg",
+    "alt": "Photograph of Maletsunyane Falls, Lesotho"
   },
   {
     "id": "thabana-ntlenyana",
@@ -21,8 +21,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "The highest mountain in Lesotho and the highest point in Southern Africa, a bucket-list climb.",
     "bestFor": "Summit hikes, winter snow views",
     "tag": "Peak",
-    "image": "images/thabana-ntlenyana.svg",
-    "alt": "Illustration of Thabana Ntlenyana, Lesotho"
+    "image": "images/thabana-ntlenyana.jpg",
+    "alt": "Photograph of Thabana Ntlenyana, Lesotho"
   },
   {
     "id": "tsehlanyane",
@@ -33,8 +33,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A beautiful mountain reserve with hiking trails, rivers and native plants.",
     "bestFor": "Day hikes, camping, plant life",
     "tag": "National park",
-    "image": "images/tsehlanyane.svg",
-    "alt": "Illustration of Tsehlanyane National Park, Lesotho"
+    "image": "images/tsehlanyane.jpg",
+    "alt": "Photograph of Tsehlanyane National Park, Lesotho"
   },
   {
     "id": "bokong",
@@ -45,8 +45,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Known for mountain views, birdwatching and Lepaqoa Falls.",
     "bestFor": "Birdwatching, short walks",
     "tag": "Nature reserve",
-    "image": "images/bokong.svg",
-    "alt": "Illustration of Bokong Nature Reserve, Lesotho"
+    "image": "images/bokong.jpg",
+    "alt": "Photograph of Bokong Nature Reserve, Lesotho"
   },
   {
     "id": "sehlabathebe",
@@ -57,8 +57,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A remote national park with unusual rock formations, grasslands and rich biodiversity.",
     "bestFor": "Remote hiking, fishing, wildlife",
     "tag": "National park",
-    "image": "images/sehlabathebe.svg",
-    "alt": "Illustration of Sehlabathebe National Park, Lesotho"
+    "image": "images/Sehlabathebe_National_Park.jpg",
+    "alt": "Photograph of Sehlabathebe National Park, Lesotho"
   },
   {
     "id": "gates-of-paradise",
@@ -69,8 +69,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A scenic mountain pass famous for its panoramic views.",
     "bestFor": "Road trips, photography",
     "tag": "Mountain pass",
-    "image": "images/gates-of-paradise.svg",
-    "alt": "Illustration of Gates of Paradise Pass, Lesotho"
+    "image": "images/qachas-nek.jpg",
+    "alt": "Photograph of Gates of Paradise Pass, Lesotho"
   },
   {
     "id": "katse-dam",
@@ -81,8 +81,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "An impressive engineering landmark surrounded by mountains.",
     "bestFor": "Boat trips, viewpoints, dam tours",
     "tag": "Dam",
-    "image": "images/katse-dam.svg",
-    "alt": "Illustration of Katse Dam, Lesotho"
+    "image": "images/katse_Dam.jpg",
+    "alt": "Photograph of Katse Dam, Lesotho"
   },
   {
     "id": "mohale-dam",
@@ -93,8 +93,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A large reservoir offering beautiful views of the highlands.",
     "bestFor": "Scenic drives, picnics",
     "tag": "Dam",
-    "image": "images/mohale-dam.svg",
-    "alt": "Illustration of Mohale Dam, Lesotho"
+    "image": "images/mohale-dam.jpg",
+    "alt": "Photograph of Mohale Dam, Lesotho"
   },
   {
     "id": "afriski",
@@ -105,8 +105,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A mountain resort known for its winter snow and seasonal skiing activities.",
     "bestFor": "Skiing, snowboarding, mountain biking",
     "tag": "Resort",
-    "image": "images/afriski.svg",
-    "alt": "Illustration of Afriski Mountain Resort, Lesotho"
+    "image": "images/afriski-mountain-resort.jpg",
+    "alt": "Photograph of Afriski Mountain Resort, Lesotho"
   },
   {
     "id": "sani-top",
@@ -117,8 +117,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A spectacular high-altitude area with rugged mountain scenery.",
     "bestFor": "Views, 4x4 routes, mountain lodge",
     "tag": "Highest pass",
-    "image": "images/sani-top.svg",
-    "alt": "Illustration of Sani Top, Lesotho"
+    "image": "images/sani-pass.jpg",
+    "alt": "Photograph of Sani Top, Lesotho"
   },
   {
     "id": "thaba-bosiu",
@@ -129,8 +129,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "An important historical site associated with King Moshoeshoe I and the formation of the Basotho nation.",
     "bestFor": "History walks, guided tours",
     "tag": "Historic site",
-    "image": "images/thaba-bosiu.svg",
-    "alt": "Illustration of Thaba Bosiu Cultural Village, Lesotho"
+    "image": "images/thaba-bosiu.jpg",
+    "alt": "Photograph of Thaba Bosiu Cultural Village, Lesotho"
   },
   {
     "id": "morija-museum",
@@ -141,8 +141,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A place to learn about Lesotho's history, heritage and cultural traditions.",
     "bestFor": "Museum visit, archives, heritage",
     "tag": "Museum",
-    "image": "images/morija-museum.svg",
-    "alt": "Illustration of Morija Museum and Archives, Lesotho"
+    "image": "images/morija-museum.jpg",
+    "alt": "Photograph of Morija Museum and Archives, Lesotho"
   },
   {
     "id": "ha-kome",
@@ -153,8 +153,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Famous traditional dwellings built into a rock overhang.",
     "bestFor": "Photography, cultural visit",
     "tag": "Cave houses",
-    "image": "images/ha-kome.svg",
-    "alt": "Illustration of Ha Kome Cave Houses, Lesotho"
+    "image": "images/ha-kome.jpg",
+    "alt": "Photograph of Ha Kome Cave Houses, Lesotho"
   },
   {
     "id": "liphofung",
@@ -165,8 +165,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A historic rock shelter with cultural significance and rock art.",
     "bestFor": "Rock art, short hikes",
     "tag": "Cave",
-    "image": "images/liphofung.svg",
-    "alt": "Illustration of Liphofung Cave, Lesotho"
+    "image": "images/liphofung.jpg",
+    "alt": "Photograph of Liphofung Cave, Lesotho"
   },
   {
     "id": "basotho-hat",
@@ -177,8 +177,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A distinctive building inspired by the traditional Basotho hat, Mokorotlo.",
     "bestFor": "Craft shopping, photo stop",
     "tag": "Landmark",
-    "image": "images/basotho-hat.svg",
-    "alt": "Illustration of Basotho Hat Building, Lesotho"
+    "image": "images/maseru-city-centre.jpg",
+    "alt": "Photograph of Basotho Hat Building, Lesotho"
   },
   {
     "id": "quthing-dinosaur",
@@ -189,8 +189,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "An interesting destination for visitors interested in prehistoric life.",
     "bestFor": "Family outing, geology",
     "tag": "Fossil site",
-    "image": "images/quthing-dinosaur.svg",
-    "alt": "Illustration of Quthing Dinosaur Footprints, Lesotho"
+    "image": "images/quthing.jpg",
+    "alt": "Photograph of Quthing Dinosaur Footprints, Lesotho"
   },
   {
     "id": "ribaneng-falls",
@@ -201,8 +201,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Waterfalls and mountain scenery.",
     "bestFor": "Picnics, photography",
     "tag": "Waterfall",
-    "image": "images/ribaneng-falls.svg",
-    "alt": "Illustration of Ribaneng Falls, Lesotho"
+    "image": "images/ribaneng.jpg",
+    "alt": "Photograph of Ribaneng Falls, Lesotho"
   },
   {
     "id": "bokong-highlands",
@@ -213,8 +213,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Highland landscapes and hiking.",
     "bestFor": "Hiking, wide views",
     "tag": "Highlands",
-    "image": "images/bokong-highlands.svg",
-    "alt": "Illustration of Bokong Highlands, Lesotho"
+    "image": "images/leribe.jpg",
+    "alt": "Photograph of Bokong Highlands, Lesotho"
   },
   {
     "id": "mafika-lisiu",
@@ -225,8 +225,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Dramatic mountain roads and panoramic views.",
     "bestFor": "Scenic drives, photography",
     "tag": "Mountain pass",
-    "image": "images/mafika-lisiu.svg",
-    "alt": "Illustration of Mafika-Lisiu Pass, Lesotho"
+    "image": "images/semonkong.jpg",
+    "alt": "Photograph of Mafika-Lisiu Pass, Lesotho"
   },
   {
     "id": "malealea",
@@ -237,8 +237,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Village tourism, pony trekking and mountain adventures.",
     "bestFor": "Pony trekking, village stays",
     "tag": "Village",
-    "image": "images/malealea.svg",
-    "alt": "Illustration of Malealea, Lesotho"
+    "image": "images/malealea.jpg",
+    "alt": "Photograph of Malealea, Lesotho"
   },
   {
     "id": "roma",
@@ -249,8 +249,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Dinosaur footprints, mountain scenery and historic sites.",
     "bestFor": "Sightseeing, heritage",
     "tag": "Town",
-    "image": "images/roma.svg",
-    "alt": "Illustration of Roma, Lesotho"
+    "image": "images/maseru.jpg",
+    "alt": "Photograph of Roma, Lesotho"
   },
   {
     "id": "morija",
@@ -261,8 +261,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "Museums, arts, crafts and cultural festivals.",
     "bestFor": "Festivals, crafts, museums",
     "tag": "Cultural town",
-    "image": "images/morija.svg",
-    "alt": "Illustration of Morija, Lesotho"
+    "image": "images/morija-museum.jpg",
+    "alt": "Photograph of Morija, Lesotho"
   },
   {
     "id": "matsieng",
@@ -273,8 +273,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A destination connected to Basotho royal heritage.",
     "bestFor": "Royal heritage, history",
     "tag": "Royal site",
-    "image": "images/matsieng.svg",
-    "alt": "Illustration of Matsieng Royal Palace, Lesotho"
+    "image": "images/berea.jpg",
+    "alt": "Photograph of Matsieng Royal Palace, Lesotho"
   },
   {
     "id": "lake-letsie",
@@ -285,8 +285,8 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A scenic high-altitude wetland.",
     "bestFor": "Birdwatching, quiet walks",
     "tag": "Wetland",
-    "image": "images/lake-letsie.svg",
-    "alt": "Illustration of Lake Letsie, Lesotho"
+    "image": "images/quthing.jpg",
+    "alt": "Photograph of Lake Letsie, Lesotho"
   },
   {
     "id": "metolong-dam",
@@ -297,7 +297,7 @@ window.DESTINATIONS_FALLBACK = [
     "summary": "A reservoir surrounded by the countryside.",
     "bestFor": "Picnics, scenic walks",
     "tag": "Dam",
-    "image": "images/metolong-dam.svg",
-    "alt": "Illustration of Metolong Dam, Lesotho"
+    "image": "images/metolong-dam.jpg",
+    "alt": "Photograph of Metolong Dam, Lesotho"
   }
 ];

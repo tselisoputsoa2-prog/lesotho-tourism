@@ -145,7 +145,7 @@ LT.showWelcome = function () {
 window.openDetails = function (d) {
   if (!d) return;
   const el = document.getElementById("detailsModal");
-  el.querySelector("[data-m-title]").textContent = d.name;
+  const title = el.querySelector("[data-m-title]"); if (title) title.textContent = d.name;
   const img = el.querySelector("[data-m-img]"); img.src = d.image; img.alt = d.alt;
   el.querySelector("[data-m-cat]").textContent = d.category;
   el.querySelector("[data-m-region]").textContent = d.region;
